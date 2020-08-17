@@ -1,0 +1,22 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  background: #0b0b0b;
+}
+.cardstyle{
+  padding: 20px;
+}
+.Register{
+  text-decoration: none;
+  font-weight: 600;
+  color: #c0b2b2;
+}
+.Register:hover{
+  text-decoration: none;
+  font-weight: 600;
+  color: #6b6262;  
+}
+.form{
+  margin-left: 20%;
+}
